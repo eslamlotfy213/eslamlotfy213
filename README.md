@@ -35,13 +35,11 @@
 
 ### 📊 GitHub Stats
 
-## 📊 GitHub Overview
-
 <p align="center">
-  👤 Followers: 10+  
-  ⭐ Total Stars: 50+  
-  📦 Repositories: 12  
-  💻 Main Language: Python, Java, C#
+  👤 Followers: <a href="https://github.com/eslamlotfy213?tab=followers">10+</a>  
+  ⭐ Total Stars: <a href="https://github.com/eslamlotfy213?tab=stars">50+</a>  
+  📦 Repositories: <a href="https://github.com/eslamlotfy213?tab=repositories">12</a>  
+  💻 Main Languages: Python, Java, C#
 </p>
 
 ### 🏆 Tech Stack
@@ -51,13 +49,12 @@
 
 ### 📅 Contributions
 <p align="center">
-  ![Contribution Graph](https://github.com/eslamlotfy213/eslamlotfy213/raw/main/contribution-graph.png)
+  ![GitHub Contributions](https://ghchart.rshah.org/eslamlotfy213)
 </p>
 
 ### 🏆 Top Languages
-
 <p align="center">
-  ![Top languages](https://img.shields.io/github/languages/top/eslamlotfy213?style=for-the-badge)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslamlotfy213&layout=compact&theme=dark)
 </p>
 
 ---

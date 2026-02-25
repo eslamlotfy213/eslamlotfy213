@@ -57,6 +57,23 @@
   />
 </div>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  ![GitHub followers](https://img.shields.io/github/followers/eslamlotfy213?label=Followers&style=for-the-badge)
+  <img width="12">
+  ![GitHub repo count](https://img.shields.io/github/repos/eslamlotfy213?style=for-the-badge)
+  <img width="12">
+  ![GitHub stars](https://img.shields.io/github/stars/eslamlotfy213?style=for-the-badge)
+  <img width="12">
+  ![GitHub contributions](https://img.shields.io/badge/Daily%20Contributions-Active-green?style=for-the-badge)
+</p>
+
+### 🏆 Top Languages
+
+<p align="center">
+  ![Top languages](https://img.shields.io/github/languages/top/eslamlotfy213?style=for-the-badge)
+</p>
 
 ---
 

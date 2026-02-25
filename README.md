@@ -35,38 +35,23 @@
 
 ### 📊 GitHub Stats
 
-
-<!-- 📊 GitHub Stats Section -->
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=eslamlotfy213&show_icons=true&theme=dracula&hide_border=true&count_private=true" 
-    height="150"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=eslamlotfy213&theme=dracula&hide_border=true" 
-    height="150"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamlotfy213&layout=compact&theme=dracula&hide_border=true" 
-    height="150"
-  />
-</div>
-
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/eslamlotfy213?label=Followers&style=for-the-badge)
-  <img width="12">
-  ![GitHub repo count](https://img.shields.io/github/repos/eslamlotfy213?style=for-the-badge)
-  <img width="12">
-  ![GitHub stars](https://img.shields.io/github/stars/eslamlotfy213?style=for-the-badge)
-  <img width="12">
-  ![GitHub contributions](https://img.shields.io/badge/Daily%20Contributions-Active-green?style=for-the-badge)
+  👤 Followers: 10+  
+  ⭐ Total Stars: 50+  
+  📦 Repositories: 12  
+  💻 Main Language: Python, Java, C#
+</p>
+
+### 🏆 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,python,selenium,postman,git,github,aws" height="50"/>
+</p>
+
+### 📅 Contributions
+<p align="center">
+  ![Contribution Graph](https://github.com/eslamlotfy213/eslamlotfy213/raw/main/contribution-graph.png)
 </p>
 
 ### 🏆 Top Languages

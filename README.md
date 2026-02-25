@@ -33,29 +33,29 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  👤 Followers: <a href="https://github.com/eslamlotfy213?tab=followers">10+</a>  
-  ⭐ Total Stars: <a href="https://github.com/eslamlotfy213?tab=stars">50+</a>  
-  📦 Repositories: <a href="https://github.com/eslamlotfy213?tab=repositories">12</a>  
-  💻 Main Languages: Python, Java, C#
-</p>
+👤 Followers: [10+](https://github.com/eslamlotfy213?tab=followers)  
+⭐ Total Stars: [50+](https://github.com/eslamlotfy213?tab=stars)  
+📦 Repositories: [12](https://github.com/eslamlotfy213?tab=repositories)  
+💻 Main Languages: Python, Java, C#
 
 ### 🏆 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,python,selenium,postman,git,github,aws" height="50"/>
-</p>
+![Java](https://skillicons.dev/icons?i=java)
+![C#](https://skillicons.dev/icons?i=cs)
+![Python](https://skillicons.dev/icons?i=python)
+![Selenium](https://skillicons.dev/icons?i=selenium)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![AWS](https://skillicons.dev/icons?i=aws)
 
 ### 📅 Contributions
-<p align="center">
-  ![GitHub Contributions](https://ghchart.rshah.org/eslamlotfy213)
-</p>
+![GitHub Contributions](https://ghchart.rshah.org/eslamlotfy213)
 
 ### 🏆 Top Languages
-<p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslamlotfy213&layout=compact&theme=dark)
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslamlotfy213&layout=compact&theme=dark)
+
 
 ---
 

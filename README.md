@@ -35,10 +35,28 @@
 
 ### 📊 GitHub Stats
 
+
+<!-- 📊 GitHub Stats Section -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eslamlotfy213&theme=dracula" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app?username=eslamlotfy213&theme=dracula&margin-w=8&margin-h=8" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=eslamlotfy213&show_icons=true&theme=dracula&hide_border=true&count_private=true" 
+    height="150"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=eslamlotfy213&theme=dracula&hide_border=true" 
+    height="150"
+  />
 </div>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamlotfy213&layout=compact&theme=dracula&hide_border=true" 
+    height="150"
+  />
+</div>
+
 
 ---
 

@@ -5,6 +5,25 @@
 </p>
 
 ---
+👨‍💻 About Me
+class IslamLotfy {
+
+    String role = "Software Tester / QA Automation Engineer";
+    String experience = "7+ Years Experience";
+    String location = "Egypt 🇪🇬";
+
+    String[] skills = {
+        "Manual Testing",
+        "Automation Testing",
+        "Selenium",
+        "Playwright",
+        "REST Assured",
+        "API Testing",
+        "CI/CD",
+        "Jenkins",
+        "Postman",
+        "TestNG"
+    };
 
 ### 👨‍💻 About Me
 

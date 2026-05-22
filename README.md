@@ -24,7 +24,7 @@ class IslamLotfy {
         "Postman",
         "TestNG"
     };
-
+String passion = "Building scalable automation frameworks and ensuring software quality 🚀"; }
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working at **STC** as a **Senior Software Testing Engineer**
